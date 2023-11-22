@@ -27,7 +27,7 @@ graph LR;
 
 ### Tasks
 ```
-    Task 1: Project Overview and Import Libraries
+    Task 1: Import Libraries
     Task 2: the Fashion MNIST Data preprocessing
     Task 3: Create Batches of training data (shuffle to add more randomness)
     Task 4: Build the Generator Network for DCGAN
